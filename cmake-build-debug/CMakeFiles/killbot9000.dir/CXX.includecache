@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mitchellshelton/CLionProjects/killbot9000/StateMachine.cpp
+StateMachine.h
+/Users/mitchellshelton/CLionProjects/killbot9000/StateMachine.h
+iostream
+-
+
+/Users/mitchellshelton/CLionProjects/killbot9000/StateMachine.h
+string
+-
+
+/Users/mitchellshelton/CLionProjects/killbot9000/main.cpp
+iostream
+-
+StateMachine.h
+/Users/mitchellshelton/CLionProjects/killbot9000/StateMachine.h
+
